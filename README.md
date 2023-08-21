@@ -1,4 +1,3 @@
-![Top Banner](DevOpsBanner.png)
 <p align="center">
   <img src="DevOpsBanner.png" alt="DevOpsBanner">
 </p>
