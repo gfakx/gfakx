@@ -1,4 +1,8 @@
 ![Top Banner](DevOpsBanner.png)
+<p align="center">
+  <img src="DevOpsBanner.png" alt="DevOpsBanner">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Felix</h1>
 <h3 align="center">A passionate Cloud DevOps Engineer</h3>
