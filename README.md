@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Felix</h1>
 <h3 align="center">A passionate Cloud DevOps Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
+<img align="right" alt="Coding" width="400" src="https://www.javacodegeeks.com/wp-content/uploads/2020/03/What-is-a-CICD-Pipeline.gif">
 - 📫 How to reach me **gfakx@outlook.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
